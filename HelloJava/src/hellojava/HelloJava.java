@@ -18,7 +18,7 @@ public class HelloJava {
         
         System.out.println("Hello World!");
         
-        System.out.println("Aula de PSW!!!");
+        System.out.println("Aula de PSW mais uma alteração!!!");
         
     }
     
