@@ -1,0 +1,56 @@
+ERROR	2018-08-08 19:00:45,037	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:21)
+INFO	2018-08-08 19:04:37,193	br.cefetrj.mavenproject1.HelloWorld	[main]	main chamado
+ERROR	2018-08-08 19:04:37,193	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:21)
+INFO	2018-08-08 19:04:37,193	br.cefetrj.mavenproject1.HelloWorld	[main]	terminou main
+INFO	2018-08-08 19:07:20,740	br.cefetrj.mavenproject1.HelloWorld	[main]	main chamado
+WARN	2018-08-08 19:07:20,740	br.cefetrj.mavenproject1.HelloWorld	[main]	Programa executado sem nenhum parâmetro
+ERROR	2018-08-08 19:07:20,740	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:25)
+INFO	2018-08-08 19:07:20,740	br.cefetrj.mavenproject1.HelloWorld	[main]	terminou main
+INFO	2018-08-08 19:09:34,872	br.cefetrj.mavenproject1.HelloWorld	[main]	main chamado
+WARN	2018-08-08 19:09:34,872	br.cefetrj.mavenproject1.HelloWorld	[main]	Programa executado sem nenhum parâmetro
+ERROR	2018-08-08 19:09:34,872	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:25)
+FATAL	2018-08-08 19:09:34,872	br.cefetrj.mavenproject1.HelloWorld	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+INFO	2018-08-08 19:11:15,899	br.cefetrj.mavenproject1.HelloWorld	[main]	main chamado
+WARN	2018-08-08 19:11:15,899	br.cefetrj.mavenproject1.HelloWorld	[main]	Programa executado sem nenhum parâmetro
+ERROR	2018-08-08 19:11:15,899	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:25)
+FATAL	2018-08-08 19:11:15,899	br.cefetrj.mavenproject1.HelloWorld	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+INFO	2018-08-08 19:11:25,567	br.cefetrj.mavenproject1.HelloWorld	[main]	main chamado
+WARN	2018-08-08 19:11:25,567	br.cefetrj.mavenproject1.HelloWorld	[main]	Programa executado sem nenhum parâmetro
+ERROR	2018-08-08 19:11:25,567	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:25)
+FATAL	2018-08-08 19:11:25,582	br.cefetrj.mavenproject1.HelloWorld	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+INFO	2018-08-08 19:11:25,582	br.cefetrj.mavenproject1.HelloWorld	[main]	terminou main
+INFO	2018-08-08 19:11:51,252	br.cefetrj.mavenproject1.HelloWorld	[main]	main chamado
+WARN	2018-08-08 19:11:51,252	br.cefetrj.mavenproject1.HelloWorld	[main]	Programa executado sem nenhum parâmetro
+ERROR	2018-08-08 19:11:51,252	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:25)
+FATAL	2018-08-08 19:11:51,252	br.cefetrj.mavenproject1.HelloWorld	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+DEBUG	2018-08-08 19:11:51,252	br.cefetrj.mavenproject1.HelloWorld	[main]	DEBUG
+TRACE	2018-08-08 19:11:51,252	br.cefetrj.mavenproject1.HelloWorld	[main]	TRACE
+INFO	2018-08-08 19:11:51,252	br.cefetrj.mavenproject1.HelloWorld	[main]	terminou main
+ERROR	2018-08-08 19:20:00,005	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:34)
+FATAL	2018-08-08 19:20:00,005	br.cefetrj.mavenproject1.HelloWorld	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+ERROR	2018-08-08 19:20:50,885	br.cefetrj.mavenproject1.HelloWorld	[main]	Erro ao executar o hello world!!!
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at br.cefetrj.mavenproject1.HelloWorld.main(HelloWorld.java:34)
+FATAL	2018-08-08 19:20:50,885	br.cefetrj.mavenproject1.HelloWorld	[main]	java.lang.ArrayIndexOutOfBoundsException: 0
+INFO	2018-08-08 19:22:32,715	br.cefetrj.mavenproject1.HelloWorld	[main]	main chamado
+TRACE	2018-08-08 19:22:32,715	br.cefetrj.mavenproject1.HelloWorld	[main]	soma 2 + 2
+INFO	2018-08-08 19:22:32,715	br.cefetrj.mavenproject1.HelloWorld	[main]	resultado da soma = 0
+DEBUG	2018-08-08 19:22:32,715	br.cefetrj.mavenproject1.HelloWorld	[main]	DEBUG
+TRACE	2018-08-08 19:22:32,715	br.cefetrj.mavenproject1.HelloWorld	[main]	TRACE
+INFO	2018-08-08 19:22:32,715	br.cefetrj.mavenproject1.HelloWorld	[main]	terminou main
